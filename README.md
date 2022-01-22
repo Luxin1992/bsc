@@ -1,1 +1,3 @@
-# bsc
+# bsc 0x23aF4D81796910C97ACE8786ecA1f7620C529A89
+seed: salute lesson inherit knife uphold pumpkin sure antenna truck country menu expire
+privatekey 0xd75fa7b7dc9c9386bd3c9647a41dfb1cbebdf67d3df3d7fed94725ebfc642977
